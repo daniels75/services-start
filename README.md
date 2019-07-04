@@ -1,5 +1,15 @@
 # MyFirstApp
 
+## ERROR in The Angular Compiler requires TypeScript >=3.4.0 and <3.5.0 but 3.5.2 was found instead.
+npm install typescript@">=3.4.0 <3.5.0"
+
+## latest version of installed TypeScript
+npm install -g typescript@latest
+tsc -v
+
+## update typescript
+npm update -g typescript
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
